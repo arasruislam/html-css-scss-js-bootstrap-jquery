@@ -1,0 +1,15 @@
+h2 {
+    color: red;
+    font-size: 30px;
+    text-align: center;
+    border-bottom: 1px solid black;
+    padding: 10px;
+}
+
+h2:hover {
+    color: green;
+}
+
+img {
+    
+}
