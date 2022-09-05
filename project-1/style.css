@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo:wght@400;600;700&family=Lobster&family=Roboto:wght@400;700&display=swap');
+
+html, body, * {
+    font-family: 'Archivo', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Lobster', sans-serif;
+}
+
+p.para, .btn {
+    font-family: 'Roboto', sans-serif;
+}
